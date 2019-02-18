@@ -1,0 +1,2 @@
+# Minerva
+Checking out GIT
